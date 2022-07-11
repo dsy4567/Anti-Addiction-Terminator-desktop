@@ -1,0 +1,18 @@
+{
+  "name": "Anti-Addiction-Terminator-desktop",
+  "version": "1.0.0",
+  "description": "防沉迷终结者",
+  "main": "main.js",
+  "scripts": {
+    "ele": "electron .",
+    "ser": "node ./js/server.js"
+  },
+  "repository": "",
+  "keywords": [],
+  "author": "dsy4567",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "electron": "^19.0.4"
+  }
+}
